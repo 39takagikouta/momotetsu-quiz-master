@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:39takagikouta/momotetsu-quiz-master-front.git
+[submodule "back"]
+	path = back
+	url = git@github.com:39takagikouta/momotetsu-quiz-master-back.git
